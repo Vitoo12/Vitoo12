@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Alfian Vito Anggoro**.
+
+Saya seorang **Mahasiswa** di Universitas Singaperbangsa Karawang prodi Teknik Informatika.
+
+Saya saat ini sedang mengikuti pelatihan PENGEMBANGAN FRONT END DAN BACK END di [Dicoding](https://www.dicoding.com/dashboard) pada Study Independent Batch 3 Kampus Merdeka.
+ 
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/alfianvitoanggoro/)ku ya.
